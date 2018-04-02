@@ -1,4 +1,5 @@
 # Parcel JS example
+[Parcel JS](https://parceljs.org/)
 
 ## Steps
 1. create project folder
